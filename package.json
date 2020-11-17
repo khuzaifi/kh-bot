@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cr4r1/botwat.git"
+    "url": "git+https://github.com/khuzaifi/kh-bot.git"
   },
   "keywords": [
     "Bot"
@@ -19,9 +19,9 @@
   "author": "cr4r",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cr4r1/botwat/issues"
+    "url": "https://github.com/khuzaifi/kh-wa/issues"
   },
-  "homepage": "https://github.com/cr4r1/botwat#readme",
+  "homepage": "https://github.com/khuzaifi/kh-wa#readme",
   "dependencies": {
     "@open-wa/wa-automate": "^2.0.28",
     "@open-wa/wa-decrypt": "^2.0.1",
